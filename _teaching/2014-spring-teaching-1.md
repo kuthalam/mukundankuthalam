@@ -1,17 +1,19 @@
 ---
-title: "Teaching experience 1"
+title: "Graduate Teaching Assistant for Artificial Intelligence (CS 6601)"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Graduate course"
+permalink: /teaching/gta-ai
+venue: "Georgia Institute of Technology, Computer Science"
+date: 2019-2020
+location: "Atlanta, GA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Graduate Teaching Assistant for the CS 6601 Artificial Intelligence class (Online & On-campus).
 
-Heading 1
+Specific Assignments that I Handled
 ======
+- Search (BFS, UCS, A* Search)
+- Gaussian Mixture Models (GMMs)
 
 Heading 2
 ======
