@@ -1,10 +1,10 @@
 ---
 title: "Graduate Teaching Assistant for Artificial Intelligence (CS 6601)"
 collection: teaching
-type: "Graduate course"
+type: "Graduate Course"
 permalink: /teaching/gta-ai
 venue: "Georgia Institute of Technology, Computer Science"
-date: 2019-2020
+date: 2019, 2020
 location: "Atlanta, GA"
 ---
 
@@ -15,8 +15,13 @@ Specific Assignments that I Handled
 - Search (BFS, UCS, A* Search)
 - Gaussian Mixture Models (GMMs)
 
-Heading 2
+All Responsibilities
 ======
+- Updating assignments by adding new content and/or modifying certain parts
+- Creating and grading exam questions
 
-Heading 3
+Semesters I was a GTA
 ======
+- Spring 2019
+- Fall 2019
+- Spring 2020

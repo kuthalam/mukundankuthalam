@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello there! I am Mukundan Kuthalam (though I usually go by Mukund), a first-year Ph.D. student at Northwestern University (NU). I am currently doing research with the Qualitative Research Group (QRG), led by Dr. Ken Forbus, and my research interests include both knowledge representation and natural language processing. This website is currently going through its setup phase, so apologies for any missing information or disorganized pages. All of the page content is driven by the work I have done in my Masters program at Georgia Tech.
+Hello there! I am Mukundan Kuthalam (though I usually go by Mukund), a first-year Ph.D. student at Northwestern University (NU). I am currently doing research with the Qualitative Research Group (QRG) led by Dr. Ken Forbus, and my research interests include both knowledge representation and natural language processing. This website is currently going through its setup phase, so apologies for any missing information or disorganized pages. All of the page content is driven by the work I have done in my Masters program at Georgia Tech.
 
 Academic History
 ------
