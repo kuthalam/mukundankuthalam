@@ -12,7 +12,7 @@ Graduate Teaching Assistant for the CS 6601 Artificial Intelligence class (Onlin
 
 Specific Assignments that I Handled
 ======
-- Search (BFS, UCS, A* Search)
+- Search (BFS, UCS, A* Search, Bidirectional, Tridirectional)
 - Gaussian Mixture Models (GMMs)
 
 All Responsibilities
