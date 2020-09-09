@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate Course"
 permalink: /teaching/gta-ai
 venue: "Georgia Institute of Technology, Computer Science"
-date: 2019, 2020
+date: 2020
 location: "Atlanta, GA"
 ---
 
@@ -12,7 +12,7 @@ Graduate Teaching Assistant for the CS 6601 Artificial Intelligence class (Onlin
 
 Specific Assignments that I Handled
 ======
-- Search (BFS, UCS, A* Search, Bidirectional, Tridirectional)
+- Search Algorithms
 - Gaussian Mixture Models (GMMs)
 
 All Responsibilities
