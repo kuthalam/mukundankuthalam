@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate Course"
 permalink: /teaching/gta-ai
 venue: "Georgia Institute of Technology, Computer Science"
-date: 2020
+date: 2020-01-01
 location: "Atlanta, GA"
 ---
 
