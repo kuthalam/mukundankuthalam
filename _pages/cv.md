@@ -35,7 +35,6 @@ Work experience
 Skills
 ======
 * Python, Java, C++, C, Ruby, HTML, CSS, SQL
-* Sklearn, Qt, Numpy, Pandas
   
 Teaching
 ======
