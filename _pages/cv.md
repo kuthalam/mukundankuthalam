@@ -17,10 +17,10 @@ Education
 
 Work experience
 ======
-* Summer 2020: Software Development Intern at Edgetensor Technologies
+<!-- * Summer 2020: Software Development Intern at Edgetensor Technologies
   * Worked as a frontend developer for the startup Edgetensor Technolgies for three months.
   * Duties included designing a front-end GUI to demo the capabilities of Edgetensor's backend and gamifying another existing app of Edgetensor's.
-  * Frameworks and languages used include C++, Qt, OpenCV, and Python.
+  * Frameworks and languages used include C++, Qt, OpenCV, and Python. -->
 
 * Summer 2019 - May 2020: Graduate Student Researcher
   * Worked as a graduate student researcher for the Errol project under Dr. Ashok Goel. 
