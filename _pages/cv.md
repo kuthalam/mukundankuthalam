@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Electrical Engineering, University of Texas at Austin, 2014-2018
 * M.S. in Computer Science, Georgia Institute of Technology, 2018-2020
-* Ph.D in Computer Science, Northwestern University, 2020-Present (expected)
+* Ph.D in Computer Science, Northwestern University, 2020-Present
 
 Work experience
 ======
@@ -22,7 +22,7 @@ Work experience
   * Duties included designing a front-end GUI to demo the capabilities of Edgetensor's backend and gamifying another existing app of Edgetensor's.
   * Frameworks and languages used include C++, Qt, OpenCV, and Python.
 
-* Summer 2019 - May 2020: Graduate Research Assistant
+* Summer 2019 - May 2020: Graduate Student Researcher
   * Worked as a graduate student researcher for the Errol project under Dr. Ashok Goel. 
   * Errol is an expert system agent that provides entrepreneurs feedback on their Business Model Canvases (BMCs) so they better realize their business ideas.
   * esponsibilities included: Using Python, Gensim, and Flask to create the framework for Errol's question generation algorithm using semantic analysis techniques.
