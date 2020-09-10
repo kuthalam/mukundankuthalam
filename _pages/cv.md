@@ -19,7 +19,7 @@ Work experience
 ======
 * Summer 2020: Software Development Intern at Edgetensor Technologies
   * Worked as a frontend developer for the startup Edgetensor Technolgies for three months.
-  * Duties included designing a front-end GUI to demo the capabilities of Edgetensor's backend and gamifying another existing app of Edgetensor's.  
+  * Duties included designing a GUI for use in demos and gamifying an existing app of Edgetensor's.
 
 * Summer 2019 - May 2020: Graduate Student Researcher
   * Worked as a graduate student researcher for the Errol project under Dr. Ashok Goel. 
