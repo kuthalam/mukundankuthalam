@@ -18,7 +18,7 @@ Education
 Work experience
 ======
 * Summer 2020: Software Development Intern at Edgetensor Technologies - Dallas, TX
-  * Worked as a frontend developer for the startup Edgetensor Technolgies for three months.
+  * Worked as a frontend developer for the startup Edgetensor Technologies for three months.
   * Duties included designing a GUI for use in demos and gamifying an existing app of Edgetensor's.
 
 * Summer 2019 - May 2020: Graduate Student Researcher at the Georgia Institute of Technology - Atlanta, GA
