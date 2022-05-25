@@ -14,5 +14,3 @@ paperurl: "https://computationalcreativity.net/iccc21/wp-content/uploads/2021/09
 citation: "Goel, A., Kuthalam, M., Hong, S. J., & McGreggor, K. Entrepreneurship: A New Frontier in a Computational Science of Creativity."
 ---
 [Download paper here](https://computationalcreativity.net/iccc21/wp-content/uploads/2021/09/ICCC_2021_paper_38.pdf)
-
-Recommended citation (APA): Goel, A., Kuthalam, M., Hong, S. J., & McGreggor, K. Entrepreneurship: A New Frontier in a Computational Science of Creativity.
