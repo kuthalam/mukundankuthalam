@@ -33,7 +33,7 @@ Work experience
 
 Skills
 ======
-* Python, Java, C++, C, Ruby, HTML, CSS, SQL
+* Allegro Common Lisp, Python, Java, C++, C, Ruby, HTML, CSS, SQL
 
 Teaching
 ======
