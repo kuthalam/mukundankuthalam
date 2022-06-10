@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Mukundan Kuthalam"
 title_separator          : "-"
 name                     : &name "Mukundan Kuthalam"
-description              : &description "Ph.D. Student at Northwestern University (NU)"
+description              : &description "Ph.D. Candidate at Northwestern University (NU)"
 url                      : https://kuthalam.github.io/mukundankuthalam # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/kuthalam/mukundankuthalam"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Mukundan Kuthalam"
   avatar           : "me.jpg"
-  bio              : "Second-year Ph.D. student at Northwestern University (NU) with research interests in symbolic AI and natural language"
+  bio              : "Second-year Ph.D. candidate at Northwestern University (NU) with research interests in symbolic AI and natural language"
   location         : "Evanston, IL"
   employer         :
   pubmed           :
