@@ -11,7 +11,7 @@ can learn to create intermediate-level business models."
 date: 2021-09-16
 venue: "International Conference on Computational Creativity"
 paperurl: "https://computationalcreativity.net/iccc21/wp-content/uploads/2021/09/ICCC_2021_paper_38.pdf"
-citation: "Goel, A., Kuthalam, M., Hong, S. J., & McGreggor, K. Entrepreneurship: A New Frontier in a Computational Science of Creativity."
+citation: "Goel, A. K., Kuthalam, M., Hong, S., & McGreggor, K. (2021). Entrepreneurship: A New Frontier in a Computational Science of Creativity. In ICCC (pp. 367-376)."
 ---
 [Download paper here](https://computationalcreativity.net/iccc21/wp-content/uploads/2021/09/ICCC_2021_paper_38.pdf)
 
