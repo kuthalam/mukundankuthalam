@@ -12,8 +12,9 @@ redirect_from:
 Education
 ======
 * B.S. in Electrical Engineering, University of Texas at Austin, 2014-2018
-* M.S. in Computer Science, Georgia Institute of Technology, 2018-2020
-* Ph.D in Computer Science, Northwestern University, 2020-Present
+* M.S. in Computer Science (Machine Learning Focus), Georgia Institute of Technology, 2018-2020
+* M.S. in Computer Science (Knowledge Representation & Reasoning Focus), Northwestern University, 2024
+* Ph.D in Computer Science (ABD), Northwestern University, 2020-Present
 
 Work experience
 ======
