@@ -13,7 +13,8 @@ Education
 ======
 * B.S. in Electrical Engineering, University of Texas at Austin, 2014-2018
 * M.S. in Computer Science, Georgia Institute of Technology, 2018-2020
-* Ph.D in Computer Science, Northwestern University, 2020-Present
+* M.S. in Computer Science, Northwestern University, awarded 2024
+* Ph.D in Computer Science (ABD), Northwestern University, 2020-Present
 
 Work experience
 ======
